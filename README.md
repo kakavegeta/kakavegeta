@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<textarea class="AA_TextArea" aaid="16023" rows="35" cols="100">　　　　　　 ,,;;;;;''''　　　　　　　　　　　　　　　　　　　　　　　　　　 ／　 ／　'&quot;,　／　　 /
+<textarea>　　　　　　
 　　　　 　,,;;;;;;''　　　　　　　　　　　　　　　　　　　　　　　　　 　/&quot;　 ／　／　　　　　 /
 　　　　　,,;;;;;''　　　　　　　　　　　　　　　　　　　　　　　　　　　|　_　　　　　　　,,　　／
 　　　　,,;;;;;;''　　　　　　　　　　　　　　　　　　　 　　　　　　　　|/ .ヽ ､　　　／/ ／／
